@@ -1,0 +1,10 @@
+Requirements:
+
+
+R version: 4.0.2
+
+R libraries:
+CollapsibleTree
+data.tree
+htmlwidgets
+network
